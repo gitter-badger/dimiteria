@@ -1,5 +1,7 @@
 # dimiteria
 
+[![Join the chat at https://gitter.im/miniArray/dimiteria](https://badges.gitter.im/miniArray/dimiteria.svg)](https://gitter.im/miniArray/dimiteria?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
 version 0.15.1.
 
